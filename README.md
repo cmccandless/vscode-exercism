@@ -16,7 +16,7 @@ You can download this extension from the [Visual Studio Marketplace](https://mar
 
 ### Notes
 
-- I am not affiliated with Exercism, Inc
+- I am not affiliated with Exercism®
 - Your progress is not synced with exercism.io (you will need to manually update the status of your exercise)
 - You can import/export your data if you need access to it on multiple hosts
 
